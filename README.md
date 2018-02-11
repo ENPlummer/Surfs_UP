@@ -4,7 +4,7 @@ In this project, I created a weather API based on weather measurements and weath
 
 The next step in the process was database engineering. In this step, I created the SQLite database for my weather API. I used pandas and SQLAlchemy and the CSV files that I was provided to create my SQLite database.
 
-The third step in creating my weather API was to do a climate analysis based on the data that was stored in the SQLite database that I created. In this step, I analyzed the data using SQLAlchemy to do queries on the data. I then used Pandas to create data frames for I could create graphs using Matplotlib.
+The third step in creating my weather API was to do a climate analysis based on the data that was stored in the SQLite database that I created. In this step, I analyzed the data using SQLAlchemy to do queries on the data. I then used Pandas to create data frames so I could create graphs using Matplotlib.
 
 The final step was to create a Flask app to power my weather API. I exported my climate analysis Jupyter Notebook as a Python file. I then added the required Flask routes so the app would run.
 
