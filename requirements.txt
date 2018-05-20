@@ -21,6 +21,7 @@ boto3==1.5.33
 botocore==1.8.47
 Bottleneck==1.2.1
 bs4==0.0.1
+carbon==1.1.3
 cchardet==1.1.3
 certifi==2018.1.18
 cffi==1.11.5
