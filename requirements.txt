@@ -1,6 +1,4 @@
 anaconda-client==1.2.2
-appnope==0.1.0
-appscript==1.0.1
 cloudpickle==0.5.2
 conda==4.3.16
 fastcache==1.0.2
