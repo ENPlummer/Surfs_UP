@@ -99,7 +99,7 @@ pyodbc==4.0.22
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
 PySocks==1.6.8
-pyspark==2.2.1
+pyspark==3.2.2
 pytest==3.4.2
 pytest-arraydiff==0.2
 pytest-astropy==0.2.1
